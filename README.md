@@ -180,7 +180,7 @@ The Power BI reporting suite delivers a unified, dark-themed command center buil
 
 ## 🔗 Live Interactive Report & Power BI Service
 
-> 💡 **Live Interactive Demo**: [Click here to launch the interactive Power BI report in your browser](https://app.powerbi.com/groups/me/reports/) *(or replace with your public 'Publish to web' URL)*.
+> 💡 **Live Interactive Demo**: [Click here to launch the interactive Power BI report in your browser](https://tinyurl.com/SercoAnalytics/) *(or replace with your public 'Publish to web' URL)*.
 >
 > *Note: For portfolio showcases or enterprise review, this report is configured with cross-report drill-through and responsive mobile/desktop rendering.*
 
