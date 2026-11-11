@@ -1,0 +1,501 @@
+Employee_ID,Employee_Name,Gender,Ethnicity,Veteran_Status,Disability_Status,Hierarchy_Tier,Role,Site_ID,Cost_Center_ID,Channel_ID,Hourly_Rate_GBP,Tenure_Years
+EMP-5000,Jessica Okonkwo,Female,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-103,CC-3030,CH-05,55.0,1
+EMP-5001,Christopher Miller,Male,Mixed / Multiple Ethnic Groups,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-100,CC-4040,CH-02,26.5,5
+EMP-5002,Priya Khan,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-106,CC-6060,CH-01,26.5,2
+EMP-5003,Elizabeth Brown,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-102,CC-6060,CH-03,26.5,1
+EMP-5004,Jennifer Johnson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-105,CC-5050,CH-03,18.5,5
+EMP-5005,Anthony Garcia,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-101,CC-6060,CH-02,18.5,2
+EMP-5006,Emma Smith,Female,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-108,CC-2020,CH-02,26.5,1
+EMP-5007,Aisha Adeyemi,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-100,CC-6060,CH-03,26.5,3
+EMP-5008,Claire Martinez,Female,Asian / Asian British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Case Handler,STE-105,CC-3030,CH-02,18.5,3
+EMP-5009,Emma Wilson,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-105,CC-4040,CH-04,42.0,4
+EMP-5010,Emily Okonkwo,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-104,CC-4040,CH-02,18.5,1
+EMP-5011,Daniel Jenkins,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-104,CC-6060,CH-04,18.5,2
+EMP-5012,Robert Jones,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-100,CC-1010,CH-03,26.5,2
+EMP-5013,David Rodriguez,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-109,CC-1010,CH-04,18.5,1
+EMP-5014,Linda Zhang,Female,White British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-104,CC-2020,CH-03,18.5,7
+EMP-5015,Marcus Johnson,Male,Other Ethnic Group,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-101,CC-1010,CH-03,18.5,4
+EMP-5016,Matthew Miller,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-106,CC-2020,CH-02,26.5,2
+EMP-5017,Tariq Okonkwo,Male,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-102,CC-5050,CH-02,22.0,3
+EMP-5018,Mary Brown,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-2020,CH-02,26.5,1
+EMP-5019,Linda Johnson,Female,Black / African / Caribbean,Armed Forces Veteran,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-102,CC-1010,CH-04,22.0,7
+EMP-5020,Aisha Martinez,Female,Mixed / Multiple Ethnic Groups,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Case Handler,STE-102,CC-6060,CH-04,18.5,1
+EMP-5021,Christopher Taylor,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-5050,CH-02,55.0,1
+EMP-5022,John Martinez,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-104,CC-1010,CH-01,18.5,3
+EMP-5023,Anthony Wilson,Male,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-100,CC-2020,CH-02,55.0,3
+EMP-5024,Emily Davis,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-3030,CH-03,22.0,3
+EMP-5025,Christopher Taylor,Male,White British,Armed Forces Veteran,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-110,CC-4040,CH-02,55.0,1
+EMP-5026,Tariq Patel,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-1010,CH-04,18.5,2
+EMP-5027,Olivia Patel,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-109,CC-2020,CH-05,22.0,3
+EMP-5028,Priya Rodriguez,Female,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-106,CC-5050,CH-01,18.5,1
+EMP-5029,Daniel Davis,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-108,CC-1010,CH-02,18.5,7
+EMP-5030,Claire Scott,Female,White British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-104,CC-1010,CH-02,26.5,1
+EMP-5031,Robert Williams,Male,White British,Armed Forces Veteran,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-109,CC-4040,CH-02,18.5,3
+EMP-5032,David Martinez,Male,Mixed / Multiple Ethnic Groups,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-103,CC-2020,CH-01,22.0,4
+EMP-5033,Sarah Miller,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-3030,CH-01,18.5,2
+EMP-5034,Daniel Johnson,Male,Mixed / Multiple Ethnic Groups,Military Reservist,No Declared Disability,1. Frontline Operative,Case Handler,STE-108,CC-5050,CH-04,18.5,3
+EMP-5035,Priya Jones,Female,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-106,CC-2020,CH-02,26.5,5
+EMP-5036,Tariq Williams,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-106,CC-5050,CH-03,22.0,1
+EMP-5037,Elizabeth Okonkwo,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-104,CC-1010,CH-04,26.5,7
+EMP-5038,James Jones,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-103,CC-4040,CH-04,26.5,3
+EMP-5039,Matthew Zhang,Male,White British,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Case Handler,STE-109,CC-4040,CH-01,34.0,2
+EMP-5040,Marcus Okonkwo,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-100,CC-6060,CH-03,18.5,2
+EMP-5041,Rachel Patel,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-109,CC-3030,CH-02,26.5,2
+EMP-5042,Priya Anderson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-109,CC-4040,CH-04,55.0,4
+EMP-5043,Linda Jones,Female,White British,Armed Forces Veteran,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-106,CC-1010,CH-03,26.5,5
+EMP-5044,Jessica Okonkwo,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-100,CC-3030,CH-03,22.0,5
+EMP-5045,Michael Patel,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-100,CC-2020,CH-02,26.5,15
+EMP-5046,Claire Scott,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-104,CC-4040,CH-04,26.5,5
+EMP-5047,Patricia Martinez,Female,White British,Military Reservist,No Declared Disability,1. Frontline Operative,Case Handler,STE-108,CC-3030,CH-01,26.5,3
+EMP-5048,Marcus Garcia,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-105,CC-1010,CH-01,18.5,2
+EMP-5049,Emma Adeyemi,Female,Other Ethnic Group,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-102,CC-6060,CH-02,18.5,3
+EMP-5050,Emily Khan,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-102,CC-5050,CH-01,34.0,1
+EMP-5051,Priya Miller,Female,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Case Handler,STE-106,CC-5050,CH-02,18.5,4
+EMP-5052,James Jenkins,Male,Other Ethnic Group,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Case Handler,STE-105,CC-1010,CH-04,26.5,2
+EMP-5053,Jennifer Miller,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-108,CC-1010,CH-05,22.0,1
+EMP-5054,Claire Rodriguez,Female,White British,Non-Forces,Declared Disability / Neurodivergent,3. Operational Manager,Continuous Improvement Lead,STE-105,CC-5050,CH-02,22.0,1
+EMP-5055,James Scott,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-104,CC-6060,CH-02,18.5,2
+EMP-5056,Sophie Okonkwo,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-109,CC-3030,CH-02,18.5,3
+EMP-5057,Sophie Rodriguez,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-106,CC-5050,CH-02,42.0,3
+EMP-5058,Emily Anderson,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-100,CC-1010,CH-01,34.0,3
+EMP-5059,Emma Miller,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-106,CC-4040,CH-05,26.5,3
+EMP-5060,James Jones,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-102,CC-2020,CH-02,22.0,4
+EMP-5061,Mary Anderson,Female,Other Ethnic Group,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-108,CC-6060,CH-02,26.5,1
+EMP-5062,Daniel Jones,Male,Asian / Asian British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-105,CC-6060,CH-01,26.5,1
+EMP-5063,Mary Scott,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-108,CC-4040,CH-04,22.0,3
+EMP-5064,David Adeyemi,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-104,CC-4040,CH-03,18.5,3
+EMP-5065,Aisha Brown,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-106,CC-1010,CH-05,26.5,1
+EMP-5066,Sophie Anderson,Female,White British,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-5050,CH-04,26.5,2
+EMP-5067,Tariq Jones,Male,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-106,CC-3030,CH-02,55.0,1
+EMP-5068,Liam Khan,Male,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Case Handler,STE-100,CC-6060,CH-02,18.5,3
+EMP-5069,James Rodriguez,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-106,CC-6060,CH-03,26.5,2
+EMP-5070,Aisha Wilson,Female,White British,Armed Forces Veteran,Declared Disability / Neurodivergent,3. Operational Manager,Operations Shift Manager,STE-107,CC-4040,CH-02,22.0,3
+EMP-5071,Linda Brown,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-104,CC-5050,CH-03,22.0,5
+EMP-5072,Jennifer Scott,Female,White British,Non-Forces,Declared Disability / Neurodivergent,3. Operational Manager,Continuous Improvement Lead,STE-101,CC-6060,CH-01,18.5,2
+EMP-5073,Priya Jenkins,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-104,CC-3030,CH-01,22.0,10
+EMP-5074,Tariq Miller,Male,Asian / Asian British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-105,CC-4040,CH-03,22.0,3
+EMP-5075,James Khan,Male,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-101,CC-3030,CH-03,18.5,3
+EMP-5076,Sarah Taylor,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-105,CC-5050,CH-03,26.5,4
+EMP-5077,Anthony Martinez,Male,White British,Forces Family / Spouse,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-105,CC-6060,CH-01,26.5,4
+EMP-5078,Emma Wilson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-100,CC-2020,CH-03,22.0,3
+EMP-5079,Marcus Jenkins,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-100,CC-6060,CH-01,42.0,2
+EMP-5080,John Smith,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-110,CC-5050,CH-01,18.5,1
+EMP-5081,Emma Jones,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-109,CC-6060,CH-02,18.5,1
+EMP-5082,Mark Rodriguez,Male,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-102,CC-6060,CH-01,26.5,2
+EMP-5083,Jennifer Wilson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-109,CC-1010,CH-02,18.5,2
+EMP-5084,Michael Smith,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-109,CC-6060,CH-02,18.5,2
+EMP-5085,Mark Anderson,Male,White British,Armed Forces Veteran,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-102,CC-6060,CH-02,18.5,1
+EMP-5086,Aisha Davis,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-3030,CH-01,18.5,4
+EMP-5087,Robert Wilson,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-101,CC-2020,CH-01,34.0,7
+EMP-5088,Jennifer Taylor,Female,Other Ethnic Group,Armed Forces Veteran,Declared Disability / Neurodivergent,1. Frontline Operative,Case Handler,STE-108,CC-3030,CH-01,18.5,10
+EMP-5089,Patricia Johnson,Female,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-109,CC-3030,CH-01,22.0,3
+EMP-5090,Christopher Rodriguez,Male,Mixed / Multiple Ethnic Groups,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-110,CC-4040,CH-03,18.5,4
+EMP-5091,Linda Smith,Female,White British,Non-Forces,Declared Disability / Neurodivergent,2. First-Line Supervisor,Field Logistics Lead,STE-106,CC-1010,CH-02,26.5,7
+EMP-5092,Michael Davis,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-106,CC-3030,CH-02,18.5,2
+EMP-5093,James Smith,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-105,CC-5050,CH-02,26.5,2
+EMP-5094,Mark Scott,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-102,CC-5050,CH-03,22.0,10
+EMP-5095,Liam Zhang,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-105,CC-6060,CH-04,18.5,3
+EMP-5096,Liam Patel,Male,White British,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-4040,CH-03,22.0,3
+EMP-5097,Tariq Johnson,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-107,CC-1010,CH-03,18.5,1
+EMP-5098,Mary Okonkwo,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-110,CC-1010,CH-02,22.0,1
+EMP-5099,David Wilson,Male,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-108,CC-6060,CH-03,18.5,5
+EMP-5100,Jennifer Anderson,Female,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-100,CC-5050,CH-03,42.0,3
+EMP-5101,Emma Zhang,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-100,CC-2020,CH-02,18.5,2
+EMP-5102,Robert Rodriguez,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-102,CC-4040,CH-01,26.5,1
+EMP-5103,Christopher Anderson,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-102,CC-6060,CH-02,18.5,3
+EMP-5104,Matthew Williams,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-109,CC-4040,CH-04,18.5,3
+EMP-5105,Taylor Smith,Non-Binary,Asian / Asian British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-107,CC-5050,CH-03,22.0,1
+EMP-5106,Patricia Martinez,Female,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-109,CC-5050,CH-03,42.0,7
+EMP-5107,Andrew Williams,Male,Mixed / Multiple Ethnic Groups,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-100,CC-2020,CH-02,18.5,1
+EMP-5108,Tariq Taylor,Male,Asian / Asian British,Military Reservist,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-101,CC-2020,CH-02,18.5,2
+EMP-5109,Liam Johnson,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-101,CC-1010,CH-01,18.5,4
+EMP-5110,Rachel Johnson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-102,CC-4040,CH-01,18.5,2
+EMP-5111,Sophie Smith,Female,White British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-105,CC-4040,CH-04,18.5,5
+EMP-5112,Aisha Wilson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-100,CC-5050,CH-03,22.0,4
+EMP-5113,Andrew Williams,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-101,CC-1010,CH-02,18.5,5
+EMP-5114,Sophie Patel,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-100,CC-6060,CH-04,18.5,1
+EMP-5115,Priya Brown,Female,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-104,CC-4040,CH-02,26.5,1
+EMP-5116,James Davis,Male,White British,Non-Forces,Declared Disability / Neurodivergent,2. First-Line Supervisor,Field Logistics Lead,STE-106,CC-1010,CH-05,22.0,2
+EMP-5117,Anthony Adeyemi,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-1010,CH-02,18.5,3
+EMP-5118,Matthew Johnson,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-109,CC-5050,CH-02,18.5,4
+EMP-5119,Priya Scott,Female,Black / African / Caribbean,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-100,CC-1010,CH-02,26.5,5
+EMP-5120,Olivia Anderson,Female,White British,Military Reservist,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-106,CC-2020,CH-01,18.5,4
+EMP-5121,Aisha Okonkwo,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-104,CC-2020,CH-01,22.0,7
+EMP-5122,Emma Jones,Female,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-109,CC-3030,CH-03,18.5,4
+EMP-5123,David Adeyemi,Male,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-100,CC-5050,CH-04,22.0,2
+EMP-5124,Kwame Brown,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-102,CC-6060,CH-04,18.5,2
+EMP-5125,Michael Okonkwo,Male,Asian / Asian British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-106,CC-3030,CH-01,26.5,4
+EMP-5126,Tariq Jenkins,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-109,CC-2020,CH-03,34.0,1
+EMP-5127,Patricia Martinez,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-100,CC-3030,CH-01,26.5,1
+EMP-5128,Mary Scott,Female,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-106,CC-5050,CH-01,18.5,3
+EMP-5129,Priya Jones,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-104,CC-5050,CH-03,18.5,5
+EMP-5130,Emily Rodriguez,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-100,CC-1010,CH-03,18.5,1
+EMP-5131,James Smith,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-100,CC-4040,CH-01,18.5,5
+EMP-5132,Emily Wilson,Female,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Case Handler,STE-100,CC-1010,CH-01,18.5,5
+EMP-5133,Jessica Smith,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-110,CC-5050,CH-05,26.5,3
+EMP-5134,Kwame Jones,Male,Mixed / Multiple Ethnic Groups,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-108,CC-2020,CH-01,22.0,1
+EMP-5135,Kwame Williams,Male,Asian / Asian British,Non-Forces,Declared Disability / Neurodivergent,2. First-Line Supervisor,Talent Acquisition Specialist,STE-110,CC-6060,CH-02,22.0,1
+EMP-5136,Jennifer Jones,Female,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-102,CC-2020,CH-03,22.0,4
+EMP-5137,Jessica Zhang,Female,White British,Non-Forces,Declared Disability / Neurodivergent,2. First-Line Supervisor,Field Logistics Lead,STE-104,CC-1010,CH-01,22.0,4
+EMP-5138,Olivia Anderson,Female,White British,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Case Handler,STE-110,CC-6060,CH-01,18.5,7
+EMP-5139,Emily Jenkins,Female,Asian / Asian British,Non-Forces,Declared Disability / Neurodivergent,3. Operational Manager,Operations Shift Manager,STE-109,CC-5050,CH-02,34.0,3
+EMP-5140,Rachel Wilson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-108,CC-2020,CH-03,18.5,1
+EMP-5141,Michael Smith,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-105,CC-5050,CH-03,26.5,1
+EMP-5142,Elizabeth Martinez,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-108,CC-6060,CH-03,26.5,4
+EMP-5143,Michael Johnson,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-107,CC-6060,CH-05,26.5,1
+EMP-5144,Rachel Scott,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-2020,CH-03,22.0,2
+EMP-5145,James Jones,Male,Asian / Asian British,Armed Forces Veteran,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-100,CC-5050,CH-02,18.5,3
+EMP-5146,Tariq Wilson,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-108,CC-3030,CH-02,22.0,1
+EMP-5147,James Jenkins,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-105,CC-5050,CH-03,26.5,1
+EMP-5148,John Williams,Male,White British,Forces Family / Spouse,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-108,CC-6060,CH-03,22.0,2
+EMP-5149,James Scott,Male,Mixed / Multiple Ethnic Groups,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-102,CC-5050,CH-03,34.0,2
+EMP-5150,Daniel Williams,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-102,CC-1010,CH-03,18.5,1
+EMP-5151,Tariq Martinez,Male,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-105,CC-3030,CH-01,18.5,4
+EMP-5152,Jessica Patel,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-108,CC-4040,CH-02,18.5,5
+EMP-5153,Emily Johnson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-106,CC-1010,CH-02,18.5,2
+EMP-5154,Patricia Williams,Female,White British,Armed Forces Veteran,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-102,CC-4040,CH-01,22.0,5
+EMP-5155,Rachel Davis,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-102,CC-2020,CH-01,26.5,2
+EMP-5156,Rachel Johnson,Female,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-101,CC-4040,CH-03,26.5,3
+EMP-5157,Priya Brown,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-108,CC-5050,CH-03,34.0,7
+EMP-5158,John Patel,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-102,CC-4040,CH-02,34.0,4
+EMP-5159,Tariq Brown,Male,White British,Military Reservist,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-110,CC-6060,CH-02,34.0,5
+EMP-5160,Jessica Brown,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-104,CC-1010,CH-03,18.5,1
+EMP-5161,Sarah Williams,Female,Mixed / Multiple Ethnic Groups,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-108,CC-1010,CH-01,26.5,1
+EMP-5162,Cameron Brown,Non-Binary,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-107,CC-4040,CH-03,18.5,7
+EMP-5163,Priya Jones,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-101,CC-1010,CH-04,18.5,2
+EMP-5164,Priya Patel,Female,Other Ethnic Group,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-102,CC-6060,CH-04,26.5,2
+EMP-5165,Robert Rodriguez,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-101,CC-1010,CH-03,18.5,4
+EMP-5166,Mary Jenkins,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-4040,CH-03,18.5,5
+EMP-5167,Liam Patel,Male,Asian / Asian British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-105,CC-3030,CH-01,18.5,7
+EMP-5168,James Brown,Male,Asian / Asian British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-105,CC-3030,CH-02,18.5,2
+EMP-5169,Sarah Scott,Female,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Case Handler,STE-108,CC-2020,CH-01,42.0,7
+EMP-5170,Priya Zhang,Female,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-107,CC-1010,CH-05,18.5,1
+EMP-5171,Michael Scott,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-103,CC-4040,CH-01,18.5,1
+EMP-5172,David Jones,Male,Mixed / Multiple Ethnic Groups,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-1010,CH-01,22.0,3
+EMP-5173,Sarah Jenkins,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-108,CC-5050,CH-04,22.0,1
+EMP-5174,Michael Wilson,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-100,CC-6060,CH-05,42.0,2
+EMP-5175,Christopher Martinez,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-101,CC-1010,CH-03,18.5,4
+EMP-5176,Anthony Jones,Male,White British,Non-Forces,Declared Disability / Neurodivergent,3. Operational Manager,Operations Shift Manager,STE-101,CC-1010,CH-01,22.0,2
+EMP-5177,Christopher Khan,Male,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Case Handler,STE-105,CC-3030,CH-01,26.5,1
+EMP-5178,Matthew Adeyemi,Male,Mixed / Multiple Ethnic Groups,Military Reservist,No Declared Disability,1. Frontline Operative,Case Handler,STE-103,CC-6060,CH-02,42.0,2
+EMP-5179,Andrew Adeyemi,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-110,CC-4040,CH-01,26.5,3
+EMP-5180,Liam Miller,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-109,CC-1010,CH-01,34.0,3
+EMP-5181,Sophie Martinez,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-102,CC-3030,CH-02,18.5,5
+EMP-5182,Claire Johnson,Female,Black / African / Caribbean,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-102,CC-2020,CH-05,22.0,5
+EMP-5183,Elizabeth Garcia,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-102,CC-6060,CH-02,22.0,3
+EMP-5184,Cameron Patel,Non-Binary,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-105,CC-3030,CH-03,34.0,5
+EMP-5185,Linda Anderson,Female,Asian / Asian British,Armed Forces Veteran,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-107,CC-3030,CH-03,18.5,1
+EMP-5186,Marcus Patel,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-110,CC-3030,CH-02,18.5,2
+EMP-5187,Liam Scott,Male,Black / African / Caribbean,Armed Forces Veteran,Declared Disability / Neurodivergent,1. Frontline Operative,Case Handler,STE-106,CC-1010,CH-03,18.5,5
+EMP-5188,Liam Miller,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-103,CC-1010,CH-02,18.5,2
+EMP-5189,Rachel Scott,Female,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-110,CC-2020,CH-01,18.5,15
+EMP-5190,Jennifer Patel,Female,Asian / Asian British,Armed Forces Veteran,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-103,CC-5050,CH-03,55.0,3
+EMP-5191,Emma Jenkins,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-110,CC-5050,CH-01,22.0,5
+EMP-5192,Jessica Rodriguez,Female,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-109,CC-5050,CH-05,26.5,2
+EMP-5193,Robert Patel,Male,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-110,CC-6060,CH-01,26.5,2
+EMP-5194,Sarah Anderson,Female,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-110,CC-6060,CH-03,22.0,2
+EMP-5195,Mary Garcia,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-110,CC-2020,CH-02,18.5,4
+EMP-5196,Rachel Adeyemi,Female,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Case Handler,STE-101,CC-6060,CH-01,18.5,3
+EMP-5197,Christopher Okonkwo,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-100,CC-5050,CH-01,18.5,10
+EMP-5198,Liam Khan,Male,Other Ethnic Group,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-108,CC-5050,CH-03,26.5,2
+EMP-5199,Michael Williams,Male,Mixed / Multiple Ethnic Groups,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-101,CC-3030,CH-04,22.0,1
+EMP-5200,Marcus Taylor,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-107,CC-6060,CH-04,18.5,2
+EMP-5201,Mary Zhang,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-108,CC-1010,CH-02,22.0,3
+EMP-5202,Mary Williams,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-1010,CH-04,42.0,7
+EMP-5203,Marcus Khan,Male,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-3030,CH-03,34.0,2
+EMP-5204,Sophie Garcia,Female,Asian / Asian British,Non-Forces,Declared Disability / Neurodivergent,3. Operational Manager,Continuous Improvement Lead,STE-108,CC-3030,CH-03,34.0,4
+EMP-5205,Emma Davis,Female,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-109,CC-3030,CH-03,26.5,2
+EMP-5206,Linda Davis,Female,White British,Non-Forces,Declared Disability / Neurodivergent,3. Operational Manager,Operations Shift Manager,STE-109,CC-1010,CH-03,18.5,3
+EMP-5207,Patricia Jones,Female,Black / African / Caribbean,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-104,CC-5050,CH-04,26.5,7
+EMP-5208,Mark Anderson,Male,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-106,CC-3030,CH-02,18.5,1
+EMP-5209,Elizabeth Jenkins,Female,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-109,CC-2020,CH-04,26.5,2
+EMP-5210,Christopher Patel,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-103,CC-3030,CH-03,26.5,15
+EMP-5211,Christopher Garcia,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-100,CC-4040,CH-01,18.5,7
+EMP-5212,David Okonkwo,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-102,CC-3030,CH-01,26.5,3
+EMP-5213,Andrew Taylor,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-104,CC-1010,CH-02,42.0,3
+EMP-5214,David Smith,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-102,CC-6060,CH-03,18.5,2
+EMP-5215,John Okonkwo,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-110,CC-3030,CH-04,34.0,3
+EMP-5216,Elizabeth Anderson,Female,White British,Armed Forces Veteran,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-106,CC-6060,CH-01,18.5,5
+EMP-5217,John Rodriguez,Male,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-108,CC-4040,CH-04,22.0,4
+EMP-5218,Mary Wilson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-105,CC-2020,CH-04,22.0,2
+EMP-5219,Emma Anderson,Female,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-109,CC-6060,CH-01,22.0,1
+EMP-5220,David Garcia,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-100,CC-5050,CH-04,42.0,2
+EMP-5221,Kwame Jones,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-106,CC-3030,CH-05,34.0,1
+EMP-5222,Andrew Martinez,Male,Asian / Asian British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-102,CC-4040,CH-03,26.5,1
+EMP-5223,Elizabeth Zhang,Female,Other Ethnic Group,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-104,CC-4040,CH-04,18.5,2
+EMP-5224,Mary Scott,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-109,CC-6060,CH-05,42.0,1
+EMP-5225,Linda Smith,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-2020,CH-03,18.5,1
+EMP-5226,John Davis,Male,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-109,CC-1010,CH-02,34.0,3
+EMP-5227,Rachel Johnson,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-104,CC-3030,CH-04,18.5,1
+EMP-5228,Jennifer Taylor,Female,White British,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-104,CC-4040,CH-03,18.5,1
+EMP-5229,Liam Adeyemi,Male,Asian / Asian British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-105,CC-2020,CH-03,26.5,2
+EMP-5230,Anthony Anderson,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-109,CC-5050,CH-02,18.5,1
+EMP-5231,Olivia Okonkwo,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-109,CC-4040,CH-03,18.5,3
+EMP-5232,Anthony Johnson,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-110,CC-2020,CH-01,18.5,1
+EMP-5233,Kwame Garcia,Male,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-105,CC-1010,CH-05,18.5,5
+EMP-5234,John Garcia,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-1010,CH-02,18.5,7
+EMP-5235,John Okonkwo,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-4040,CH-01,18.5,4
+EMP-5236,Olivia Johnson,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-110,CC-4040,CH-02,22.0,3
+EMP-5237,Aisha Smith,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-108,CC-6060,CH-01,18.5,7
+EMP-5238,Daniel Martinez,Male,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-107,CC-3030,CH-03,26.5,4
+EMP-5239,David Brown,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-110,CC-2020,CH-04,18.5,1
+EMP-5240,Mary Martinez,Female,Mixed / Multiple Ethnic Groups,Non-Forces,Declared Disability / Neurodivergent,3. Operational Manager,Operations Shift Manager,STE-101,CC-4040,CH-04,42.0,2
+EMP-5241,Michael Jones,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-109,CC-3030,CH-01,34.0,7
+EMP-5242,Jordan Johnson,Non-Binary,White British,Forces Family / Spouse,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-110,CC-6060,CH-01,18.5,2
+EMP-5243,Claire Khan,Female,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-100,CC-3030,CH-04,26.5,1
+EMP-5244,Jennifer Okonkwo,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-109,CC-4040,CH-05,34.0,4
+EMP-5245,Priya Wilson,Female,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-101,CC-1010,CH-02,55.0,5
+EMP-5246,Aisha Wilson,Female,Other Ethnic Group,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-101,CC-2020,CH-03,22.0,1
+EMP-5247,Tariq Brown,Male,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-102,CC-2020,CH-02,18.5,3
+EMP-5248,Jennifer Williams,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-109,CC-1010,CH-04,26.5,1
+EMP-5249,John Scott,Male,Asian / Asian British,Military Reservist,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-106,CC-4040,CH-03,26.5,4
+EMP-5250,Elizabeth Taylor,Female,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-101,CC-2020,CH-02,26.5,2
+EMP-5251,Jessica Garcia,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-100,CC-4040,CH-02,18.5,2
+EMP-5252,Sarah Adeyemi,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-105,CC-6060,CH-04,34.0,5
+EMP-5253,Patricia Anderson,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-108,CC-4040,CH-01,42.0,3
+EMP-5254,Christopher Rodriguez,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-102,CC-3030,CH-02,18.5,4
+EMP-5255,Olivia Okonkwo,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-105,CC-1010,CH-03,18.5,2
+EMP-5256,Mark Wilson,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-102,CC-4040,CH-01,18.5,2
+EMP-5257,Rachel Brown,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-100,CC-6060,CH-01,34.0,3
+EMP-5258,James Williams,Male,Asian / Asian British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-104,CC-5050,CH-04,26.5,1
+EMP-5259,Olivia Okonkwo,Female,White British,Armed Forces Veteran,Declared Disability / Neurodivergent,3. Operational Manager,Continuous Improvement Lead,STE-109,CC-1010,CH-04,26.5,2
+EMP-5260,Aisha Zhang,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-110,CC-2020,CH-04,22.0,1
+EMP-5261,Kwame Zhang,Male,White British,Military Reservist,Declared Disability / Neurodivergent,3. Operational Manager,Continuous Improvement Lead,STE-103,CC-3030,CH-04,22.0,4
+EMP-5262,Jessica Zhang,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-106,CC-2020,CH-03,18.5,10
+EMP-5263,Jennifer Miller,Female,White British,Armed Forces Veteran,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-105,CC-6060,CH-04,22.0,15
+EMP-5264,Kwame Zhang,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-109,CC-6060,CH-02,26.5,3
+EMP-5265,Daniel Patel,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-106,CC-2020,CH-03,55.0,2
+EMP-5266,Liam Williams,Male,White British,Forces Family / Spouse,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-104,CC-1010,CH-05,42.0,2
+EMP-5267,Sarah Jones,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-103,CC-2020,CH-02,42.0,5
+EMP-5268,Priya Anderson,Female,White British,Military Reservist,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-106,CC-4040,CH-02,22.0,1
+EMP-5269,Rachel Adeyemi,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-106,CC-2020,CH-02,22.0,10
+EMP-5270,Jessica Jenkins,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-105,CC-3030,CH-01,26.5,2
+EMP-5271,Rachel Williams,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-107,CC-3030,CH-01,42.0,15
+EMP-5272,John Okonkwo,Male,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-103,CC-5050,CH-04,18.5,5
+EMP-5273,Liam Johnson,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-109,CC-3030,CH-05,18.5,5
+EMP-5274,Tariq Anderson,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-104,CC-2020,CH-02,18.5,2
+EMP-5275,Andrew Rodriguez,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-3030,CH-01,26.5,1
+EMP-5276,Linda Johnson,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-100,CC-1010,CH-01,18.5,2
+EMP-5277,Claire Patel,Female,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-107,CC-3030,CH-04,18.5,2
+EMP-5278,Sarah Smith,Female,Asian / Asian British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-100,CC-4040,CH-02,18.5,1
+EMP-5279,Elizabeth Garcia,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-104,CC-1010,CH-02,18.5,3
+EMP-5280,Linda Khan,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-105,CC-5050,CH-02,34.0,2
+EMP-5281,Emily Rodriguez,Female,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-105,CC-4040,CH-02,18.5,4
+EMP-5282,Jennifer Davis,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-104,CC-2020,CH-02,26.5,3
+EMP-5283,Tariq Garcia,Male,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Case Handler,STE-102,CC-2020,CH-04,26.5,1
+EMP-5284,Emma Khan,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-104,CC-2020,CH-03,34.0,10
+EMP-5285,Liam Anderson,Male,White British,Military Reservist,No Declared Disability,1. Frontline Operative,Case Handler,STE-107,CC-4040,CH-03,18.5,1
+EMP-5286,Liam Scott,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-101,CC-4040,CH-02,55.0,2
+EMP-5287,John Okonkwo,Male,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-105,CC-4040,CH-03,22.0,3
+EMP-5288,Andrew Scott,Male,Other Ethnic Group,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-108,CC-1010,CH-03,55.0,5
+EMP-5289,David Garcia,Male,Mixed / Multiple Ethnic Groups,Non-Forces,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-107,CC-6060,CH-01,42.0,1
+EMP-5290,Michael Scott,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-110,CC-1010,CH-03,18.5,2
+EMP-5291,Linda Anderson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-107,CC-2020,CH-02,18.5,3
+EMP-5292,James Zhang,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-6060,CH-04,18.5,1
+EMP-5293,Elizabeth Khan,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-106,CC-3030,CH-02,22.0,3
+EMP-5294,Christopher Khan,Male,White British,Forces Family / Spouse,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-107,CC-2020,CH-05,18.5,7
+EMP-5295,Liam Taylor,Male,White British,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Case Handler,STE-105,CC-5050,CH-01,18.5,15
+EMP-5296,Elizabeth Martinez,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-101,CC-1010,CH-04,22.0,1
+EMP-5297,Jordan Davis,Non-Binary,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Case Handler,STE-101,CC-4040,CH-03,18.5,1
+EMP-5298,James Jones,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-107,CC-1010,CH-03,18.5,2
+EMP-5299,Sarah Khan,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-110,CC-4040,CH-02,22.0,2
+EMP-5300,Aisha Williams,Female,White British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-100,CC-6060,CH-03,18.5,1
+EMP-5301,Mary Jones,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-105,CC-5050,CH-04,22.0,1
+EMP-5302,Daniel Taylor,Male,White British,Non-Forces,Declared Disability / Neurodivergent,3. Operational Manager,Operations Shift Manager,STE-105,CC-6060,CH-02,22.0,10
+EMP-5303,Sophie Khan,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-110,CC-5050,CH-02,22.0,7
+EMP-5304,Daniel Williams,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-103,CC-1010,CH-03,34.0,1
+EMP-5305,Sophie Davis,Female,Asian / Asian British,Military Reservist,No Declared Disability,1. Frontline Operative,Case Handler,STE-110,CC-4040,CH-03,22.0,2
+EMP-5306,David Zhang,Male,White British,Armed Forces Veteran,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-110,CC-6060,CH-02,22.0,2
+EMP-5307,Robert Jones,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-109,CC-5050,CH-02,22.0,1
+EMP-5308,Mark Zhang,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-102,CC-2020,CH-02,34.0,3
+EMP-5309,Michael Patel,Male,Mixed / Multiple Ethnic Groups,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Case Handler,STE-110,CC-2020,CH-04,34.0,4
+EMP-5310,John Davis,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-102,CC-6060,CH-03,34.0,7
+EMP-5311,Sophie Zhang,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-100,CC-4040,CH-04,26.5,4
+EMP-5312,Christopher Garcia,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-102,CC-6060,CH-05,18.5,3
+EMP-5313,Matthew Okonkwo,Male,Black / African / Caribbean,Non-Forces,Declared Disability / Neurodivergent,2. First-Line Supervisor,Field Logistics Lead,STE-103,CC-1010,CH-02,18.5,4
+EMP-5314,James Smith,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-110,CC-5050,CH-01,18.5,2
+EMP-5315,Patricia Zhang,Female,Asian / Asian British,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-110,CC-1010,CH-01,42.0,3
+EMP-5316,Sophie Scott,Female,White British,Military Reservist,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-104,CC-2020,CH-02,26.5,3
+EMP-5317,Liam Garcia,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-102,CC-5050,CH-05,26.5,1
+EMP-5318,Jennifer Davis,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-105,CC-6060,CH-03,18.5,1
+EMP-5319,Michael Okonkwo,Male,White British,Forces Family / Spouse,Declared Disability / Neurodivergent,2. First-Line Supervisor,Field Logistics Lead,STE-110,CC-1010,CH-02,34.0,2
+EMP-5320,James Jenkins,Male,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-104,CC-3030,CH-02,18.5,7
+EMP-5321,Mark Brown,Male,White British,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Case Handler,STE-102,CC-4040,CH-03,18.5,1
+EMP-5322,Chen Smith,Non-Binary,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-105,CC-4040,CH-03,22.0,2
+EMP-5323,Mark Smith,Male,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-105,CC-3030,CH-01,22.0,2
+EMP-5324,Aisha Johnson,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-2020,CH-05,22.0,4
+EMP-5325,Mark Martinez,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-101,CC-5050,CH-03,34.0,1
+EMP-5326,Aisha Patel,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-100,CC-4040,CH-01,18.5,10
+EMP-5327,Linda Patel,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-3030,CH-04,22.0,7
+EMP-5328,Sophie Okonkwo,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-106,CC-6060,CH-01,22.0,3
+EMP-5329,David Okonkwo,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-110,CC-3030,CH-04,18.5,4
+EMP-5330,Jessica Johnson,Female,Mixed / Multiple Ethnic Groups,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-109,CC-2020,CH-05,34.0,1
+EMP-5331,Jennifer Scott,Female,White British,Armed Forces Veteran,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-102,CC-2020,CH-03,26.5,2
+EMP-5332,Andrew Khan,Male,White British,Forces Family / Spouse,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-102,CC-1010,CH-04,26.5,5
+EMP-5333,Michael Khan,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-104,CC-4040,CH-02,34.0,1
+EMP-5334,Tariq Garcia,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-104,CC-1010,CH-05,26.5,2
+EMP-5335,Priya Okonkwo,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-109,CC-3030,CH-03,18.5,3
+EMP-5336,Claire Adeyemi,Female,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-102,CC-5050,CH-03,26.5,2
+EMP-5337,Tariq Taylor,Male,White British,Military Reservist,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-108,CC-5050,CH-05,18.5,10
+EMP-5338,Matthew Davis,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-103,CC-2020,CH-05,18.5,1
+EMP-5339,Daniel Adeyemi,Male,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-102,CC-5050,CH-04,18.5,5
+EMP-5340,Michael Jones,Male,White British,Non-Forces,Declared Disability / Neurodivergent,2. First-Line Supervisor,Field Logistics Lead,STE-110,CC-5050,CH-02,26.5,3
+EMP-5341,Tariq Martinez,Male,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-101,CC-5050,CH-05,26.5,5
+EMP-5342,Matthew Rodriguez,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-109,CC-3030,CH-03,18.5,2
+EMP-5343,Jessica Zhang,Female,White British,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Case Handler,STE-110,CC-5050,CH-05,26.5,3
+EMP-5344,Liam Khan,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-108,CC-6060,CH-03,42.0,7
+EMP-5345,Emily Jones,Female,White British,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Case Handler,STE-103,CC-5050,CH-02,18.5,3
+EMP-5346,Morgan Brown,Non-Binary,Black / African / Caribbean,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-102,CC-5050,CH-02,18.5,2
+EMP-5347,Sarah Smith,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-106,CC-1010,CH-03,26.5,3
+EMP-5348,Kwame Scott,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-3030,CH-04,18.5,4
+EMP-5349,David Okonkwo,Male,White British,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-110,CC-2020,CH-02,26.5,2
+EMP-5350,Sarah Martinez,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-101,CC-1010,CH-03,18.5,10
+EMP-5351,David Rodriguez,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-106,CC-4040,CH-02,22.0,2
+EMP-5352,Linda Khan,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-104,CC-3030,CH-04,26.5,3
+EMP-5353,Kwame Taylor,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-110,CC-6060,CH-02,26.5,5
+EMP-5354,Mark Anderson,Male,Mixed / Multiple Ethnic Groups,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-104,CC-3030,CH-01,34.0,4
+EMP-5355,Mark Adeyemi,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-102,CC-4040,CH-01,34.0,7
+EMP-5356,Liam Miller,Male,Mixed / Multiple Ethnic Groups,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-104,CC-4040,CH-01,26.5,15
+EMP-5357,Elizabeth Smith,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-101,CC-4040,CH-03,26.5,2
+EMP-5358,Olivia Khan,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-103,CC-2020,CH-01,18.5,1
+EMP-5359,Daniel Taylor,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-105,CC-5050,CH-01,22.0,1
+EMP-5360,Kwame Anderson,Male,Asian / Asian British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-100,CC-3030,CH-05,18.5,4
+EMP-5361,James Jenkins,Male,Other Ethnic Group,Military Reservist,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-109,CC-5050,CH-04,34.0,7
+EMP-5362,Emma Davis,Female,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-103,CC-5050,CH-02,18.5,1
+EMP-5363,James Patel,Male,White British,Forces Family / Spouse,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-105,CC-6060,CH-05,22.0,1
+EMP-5364,Jennifer Scott,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-108,CC-4040,CH-01,18.5,1
+EMP-5365,Emily Anderson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-110,CC-2020,CH-03,26.5,5
+EMP-5366,Emily Wilson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-110,CC-6060,CH-03,34.0,2
+EMP-5367,John Smith,Male,Other Ethnic Group,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-101,CC-1010,CH-02,22.0,2
+EMP-5368,Matthew Taylor,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-110,CC-2020,CH-02,34.0,3
+EMP-5369,Daniel Anderson,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-106,CC-5050,CH-02,18.5,5
+EMP-5370,Aisha Scott,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-105,CC-2020,CH-02,22.0,4
+EMP-5371,Mary Davis,Female,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Case Handler,STE-101,CC-4040,CH-03,34.0,3
+EMP-5372,Kwame Williams,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-1010,CH-01,18.5,1
+EMP-5373,Rachel Scott,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-106,CC-4040,CH-01,42.0,3
+EMP-5374,Daniel Smith,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-110,CC-1010,CH-01,18.5,4
+EMP-5375,Emma Taylor,Female,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-104,CC-6060,CH-02,18.5,10
+EMP-5376,Tariq Smith,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-104,CC-5050,CH-03,42.0,1
+EMP-5377,Robert Davis,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-106,CC-1010,CH-01,18.5,1
+EMP-5378,Olivia Jones,Female,Black / African / Caribbean,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-108,CC-1010,CH-04,55.0,1
+EMP-5379,Mary Okonkwo,Female,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-110,CC-1010,CH-02,42.0,2
+EMP-5380,Robert Zhang,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-108,CC-2020,CH-01,18.5,5
+EMP-5381,Anthony Khan,Male,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-108,CC-6060,CH-03,22.0,1
+EMP-5382,Michael Jones,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-105,CC-2020,CH-01,18.5,3
+EMP-5383,Emily Wilson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-109,CC-5050,CH-03,22.0,2
+EMP-5384,Rachel Miller,Female,White British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-105,CC-1010,CH-03,18.5,1
+EMP-5385,David Scott,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-102,CC-6060,CH-02,18.5,3
+EMP-5386,Jennifer Brown,Female,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-100,CC-6060,CH-01,22.0,2
+EMP-5387,John Johnson,Male,Mixed / Multiple Ethnic Groups,Military Reservist,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-106,CC-3030,CH-02,22.0,2
+EMP-5388,David Jenkins,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-5050,CH-01,55.0,4
+EMP-5389,Olivia Johnson,Female,White British,Military Reservist,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-100,CC-6060,CH-01,34.0,3
+EMP-5390,Priya Adeyemi,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-107,CC-1010,CH-02,26.5,1
+EMP-5391,David Garcia,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-105,CC-1010,CH-02,22.0,10
+EMP-5392,Marcus Johnson,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-105,CC-6060,CH-03,34.0,4
+EMP-5393,Robert Jenkins,Male,White British,Non-Forces,Declared Disability / Neurodivergent,2. First-Line Supervisor,Talent Acquisition Specialist,STE-101,CC-2020,CH-03,18.5,5
+EMP-5394,Daniel Anderson,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-100,CC-5050,CH-03,26.5,1
+EMP-5395,Tariq Zhang,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-101,CC-1010,CH-01,55.0,1
+EMP-5396,Mary Taylor,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-103,CC-6060,CH-01,18.5,1
+EMP-5397,Emily Rodriguez,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-101,CC-1010,CH-04,26.5,1
+EMP-5398,Christopher Miller,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-100,CC-6060,CH-03,34.0,2
+EMP-5399,Aisha Khan,Female,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-106,CC-5050,CH-04,42.0,10
+EMP-5400,Rachel Patel,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-110,CC-6060,CH-02,26.5,3
+EMP-5401,David Khan,Male,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-110,CC-3030,CH-03,18.5,2
+EMP-5402,David Martinez,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-107,CC-6060,CH-03,18.5,3
+EMP-5403,Liam Johnson,Male,White British,Armed Forces Veteran,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-105,CC-6060,CH-02,18.5,1
+EMP-5404,Marcus Garcia,Male,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-103,CC-5050,CH-02,26.5,3
+EMP-5405,Kwame Martinez,Male,White British,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-105,CC-6060,CH-03,18.5,3
+EMP-5406,Claire Garcia,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-102,CC-5050,CH-01,34.0,5
+EMP-5407,John Adeyemi,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-107,CC-3030,CH-02,18.5,15
+EMP-5408,David Miller,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-109,CC-5050,CH-04,18.5,2
+EMP-5409,James Zhang,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-101,CC-1010,CH-04,22.0,3
+EMP-5410,Emma Khan,Female,White British,Military Reservist,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-104,CC-5050,CH-02,26.5,7
+EMP-5411,Elizabeth Brown,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-100,CC-3030,CH-02,18.5,5
+EMP-5412,Christopher Khan,Male,Other Ethnic Group,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-105,CC-4040,CH-01,22.0,3
+EMP-5413,Linda Anderson,Female,Asian / Asian British,Non-Forces,Declared Disability / Neurodivergent,2. First-Line Supervisor,Field Logistics Lead,STE-101,CC-6060,CH-03,22.0,10
+EMP-5414,Tariq Williams,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-5050,CH-02,18.5,1
+EMP-5415,Kwame Okonkwo,Male,White British,Armed Forces Veteran,Declared Disability / Neurodivergent,2. First-Line Supervisor,Field Logistics Lead,STE-105,CC-6060,CH-05,18.5,10
+EMP-5416,Liam Jones,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-109,CC-2020,CH-02,34.0,1
+EMP-5417,Andrew Brown,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-110,CC-1010,CH-02,22.0,3
+EMP-5418,Robert Williams,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-107,CC-1010,CH-03,18.5,7
+EMP-5419,James Patel,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-2020,CH-04,34.0,2
+EMP-5420,Sarah Johnson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-110,CC-2020,CH-02,55.0,3
+EMP-5421,Sarah Davis,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-105,CC-5050,CH-02,26.5,2
+EMP-5422,Marcus Khan,Male,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-103,CC-2020,CH-05,22.0,10
+EMP-5423,Marcus Miller,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-107,CC-4040,CH-01,34.0,5
+EMP-5424,Patricia Jones,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-107,CC-6060,CH-04,42.0,4
+EMP-5425,Jennifer Garcia,Female,Mixed / Multiple Ethnic Groups,Non-Forces,Declared Disability / Neurodivergent,3. Operational Manager,Continuous Improvement Lead,STE-109,CC-6060,CH-01,26.5,3
+EMP-5426,Robert Jones,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-100,CC-3030,CH-04,22.0,5
+EMP-5427,Claire Anderson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-2020,CH-03,22.0,2
+EMP-5428,Rachel Anderson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-103,CC-2020,CH-02,26.5,2
+EMP-5429,Emily Wilson,Female,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-106,CC-4040,CH-04,18.5,4
+EMP-5430,Tariq Anderson,Male,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-110,CC-1010,CH-01,22.0,2
+EMP-5431,Liam Wilson,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-106,CC-1010,CH-02,34.0,1
+EMP-5432,Marcus Taylor,Male,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-110,CC-6060,CH-03,26.5,1
+EMP-5433,Matthew Rodriguez,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-107,CC-6060,CH-02,22.0,1
+EMP-5434,Matthew Martinez,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-110,CC-5050,CH-03,26.5,7
+EMP-5435,James Miller,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-104,CC-4040,CH-01,18.5,3
+EMP-5436,Elizabeth Miller,Female,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-106,CC-3030,CH-01,22.0,4
+EMP-5437,Sophie Taylor,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-107,CC-3030,CH-01,26.5,2
+EMP-5438,Jessica Taylor,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-108,CC-4040,CH-01,18.5,2
+EMP-5439,Michael Miller,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-102,CC-3030,CH-02,18.5,2
+EMP-5440,Claire Martinez,Female,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-102,CC-1010,CH-03,42.0,5
+EMP-5441,Anthony Williams,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-103,CC-3030,CH-04,18.5,3
+EMP-5442,Christopher Johnson,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-104,CC-3030,CH-04,18.5,10
+EMP-5443,Mark Davis,Male,Other Ethnic Group,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-109,CC-4040,CH-01,55.0,4
+EMP-5444,Priya Adeyemi,Female,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-100,CC-4040,CH-02,26.5,3
+EMP-5445,Tariq Anderson,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-106,CC-3030,CH-01,26.5,3
+EMP-5446,Liam Patel,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-108,CC-2020,CH-02,34.0,10
+EMP-5447,Christopher Martinez,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-4040,CH-03,18.5,5
+EMP-5448,John Williams,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-104,CC-5050,CH-01,26.5,1
+EMP-5449,Anthony Patel,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-103,CC-5050,CH-02,22.0,3
+EMP-5450,Robert Miller,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-106,CC-1010,CH-05,34.0,4
+EMP-5451,Jessica Anderson,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-104,CC-3030,CH-02,22.0,4
+EMP-5452,Elizabeth Adeyemi,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-106,CC-2020,CH-02,26.5,1
+EMP-5453,Tariq Adeyemi,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-100,CC-1010,CH-01,22.0,7
+EMP-5454,Temitope Miller,Non-Binary,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-100,CC-3030,CH-02,22.0,10
+EMP-5455,James Anderson,Male,White British,Armed Forces Veteran,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-109,CC-4040,CH-04,26.5,1
+EMP-5456,Emily Taylor,Female,Mixed / Multiple Ethnic Groups,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-102,CC-5050,CH-01,26.5,7
+EMP-5457,Emily Jones,Female,White British,Armed Forces Veteran,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-110,CC-6060,CH-02,26.5,1
+EMP-5458,Mary Zhang,Female,Other Ethnic Group,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-101,CC-2020,CH-01,22.0,1
+EMP-5459,Olivia Anderson,Female,White British,Military Reservist,No Declared Disability,1. Frontline Operative,Case Handler,STE-101,CC-6060,CH-02,22.0,1
+EMP-5460,Linda Adeyemi,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-106,CC-5050,CH-01,26.5,1
+EMP-5461,David Jones,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-109,CC-6060,CH-04,34.0,5
+EMP-5462,Aisha Miller,Female,Black / African / Caribbean,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-101,CC-4040,CH-04,26.5,1
+EMP-5463,Anthony Khan,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-110,CC-3030,CH-04,42.0,2
+EMP-5464,John Miller,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-103,CC-4040,CH-02,34.0,1
+EMP-5465,Alex Davis,Non-Binary,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-101,CC-6060,CH-04,22.0,2
+EMP-5466,Matthew Scott,Male,White British,Non-Forces,Declared Disability / Neurodivergent,1. Frontline Operative,Case Handler,STE-105,CC-4040,CH-03,26.5,1
+EMP-5467,Andrew Khan,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-107,CC-5050,CH-02,42.0,4
+EMP-5468,Rachel Rodriguez,Female,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-109,CC-2020,CH-03,26.5,1
+EMP-5469,Jennifer Garcia,Female,Black / African / Caribbean,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-4040,CH-01,34.0,7
+EMP-5470,Liam Okonkwo,Male,White British,Military Reservist,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-104,CC-5050,CH-01,26.5,5
+EMP-5471,Sarah Williams,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-2020,CH-03,22.0,1
+EMP-5472,James Martinez,Male,White British,Military Reservist,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-102,CC-3030,CH-02,18.5,7
+EMP-5473,John Anderson,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-104,CC-6060,CH-03,22.0,1
+EMP-5474,Jennifer Garcia,Female,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-108,CC-3030,CH-02,55.0,1
+EMP-5475,Christopher Okonkwo,Male,White British,Non-Forces,Declared Disability / Neurodivergent,3. Operational Manager,Operations Shift Manager,STE-107,CC-1010,CH-04,26.5,1
+EMP-5476,Linda Zhang,Female,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-107,CC-5050,CH-05,22.0,2
+EMP-5477,Mark Rodriguez,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-107,CC-2020,CH-04,42.0,3
+EMP-5478,Claire Rodriguez,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-107,CC-4040,CH-02,22.0,5
+EMP-5479,Patricia Adeyemi,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-106,CC-3030,CH-01,22.0,2
+EMP-5480,Olivia Davis,Female,White British,Military Reservist,Declared Disability / Neurodivergent,1. Frontline Operative,Service Desk Analyst,STE-107,CC-2020,CH-02,26.5,4
+EMP-5481,Mark Johnson,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-110,CC-5050,CH-01,26.5,1
+EMP-5482,Olivia Garcia,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-107,CC-1010,CH-01,18.5,5
+EMP-5483,Elizabeth Wilson,Female,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-107,CC-3030,CH-03,22.0,1
+EMP-5484,Liam Jones,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-109,CC-6060,CH-03,22.0,1
+EMP-5485,Jessica Jones,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-106,CC-2020,CH-05,22.0,1
+EMP-5486,Temitope Davis,Non-Binary,Asian / Asian British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-100,CC-6060,CH-01,22.0,1
+EMP-5487,Anthony Scott,Male,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-103,CC-2020,CH-02,22.0,3
+EMP-5488,Tariq Davis,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-103,CC-2020,CH-01,18.5,5
+EMP-5489,Mark Patel,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-104,CC-5050,CH-04,22.0,1
+EMP-5490,Aisha Scott,Female,White British,Non-Forces,Declared Disability / Neurodivergent,2. First-Line Supervisor,Field Logistics Lead,STE-109,CC-5050,CH-04,18.5,4
+EMP-5491,Daniel Smith,Male,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Service Desk Analyst,STE-105,CC-5050,CH-04,22.0,4
+EMP-5492,Sarah Patel,Female,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-103,CC-4040,CH-04,34.0,7
+EMP-5493,Marcus Martinez,Male,Asian / Asian British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-101,CC-2020,CH-03,26.5,1
+EMP-5494,Claire Garcia,Female,White British,Non-Forces,No Declared Disability,1. Frontline Operative,Case Handler,STE-105,CC-3030,CH-02,22.0,3
+EMP-5495,Elizabeth Khan,Female,White British,Armed Forces Veteran,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-107,CC-6060,CH-02,18.5,7
+EMP-5496,Marcus Scott,Male,White British,Non-Forces,No Declared Disability,2. First-Line Supervisor,Talent Acquisition Specialist,STE-107,CC-5050,CH-03,18.5,4
+EMP-5497,Andrew Martinez,Male,Black / African / Caribbean,Non-Forces,No Declared Disability,2. First-Line Supervisor,Field Logistics Lead,STE-106,CC-5050,CH-02,22.0,2
+EMP-5498,David Miller,Male,White British,Non-Forces,No Declared Disability,3. Operational Manager,Continuous Improvement Lead,STE-105,CC-6060,CH-02,18.5,1
+EMP-5499,Linda Johnson,Female,Other Ethnic Group,Non-Forces,No Declared Disability,3. Operational Manager,Operations Shift Manager,STE-101,CC-6060,CH-05,22.0,2

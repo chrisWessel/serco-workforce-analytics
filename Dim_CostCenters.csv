@@ -1,0 +1,7 @@
+Cost_Center_ID,Cost_Center_Name,Sector,Division,Cost_Center_Lead,Annual_Budget_GBP
+CC-1010,CC-1010 Citizen Contact Hubs,Citizen Services (Contact Centre),Citizen & Digital Services,Sarah Jenkins,4200000.0
+CC-2020,CC-2020 Defence Logistics Command,Defence Logistics,Defence & National Security,Col. Mark Davies,5800000.0
+CC-3030,CC-3030 Health Advisory & Clinical,Health Advisory,Health & Complex Care,Dr. Rachel Patel,3600000.0
+CC-4040,CC-4040 Facilities & Infrastructure,Facilities Management,Infrastructure & Estates,Andrew Scott,2900000.0
+CC-5050,CC-5050 Justice & Immigration Services,Justice & Immigration,Justice & Custodial,Marcus Vance,4800000.0
+CC-6060,"CC-6060 Transport, Transit & Aviation",Transport & Transit,Transport & Aviation,Claire Thompson,3100000.0

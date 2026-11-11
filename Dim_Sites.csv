@@ -1,0 +1,12 @@
+Site_ID,Site_Name,Region,Country,Capacity_Threshold_Daily
+STE-100,Solihull HQ Operations,Midlands,UK,600
+STE-101,Portsmouth Dockyard,South Coast,UK,450
+STE-102,Harrogate Hub,North,UK,400
+STE-103,Glasgow Operations,Scotland,UK,350
+STE-104,Hook Logistics Base,Midlands,UK,500
+STE-105,Lincoln Hub,Midlands,UK,300
+STE-106,Reading Tech Facility,South Coast,UK,400
+STE-107,Coventry Logistics Depot,Midlands,UK,500
+STE-108,Washington Federal Center,Americas,USA,450
+STE-109,Sydney Transit Control,APAC,Australia,400
+STE-110,Abu Dhabi Healthcare Hub,Middle East,UAE,350
