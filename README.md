@@ -8,6 +8,8 @@
 ![Python](https://img.shields.io/badge/Python_3.11-ETL_&_Data_Synthesis-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-SCD_Type_2_&_Window_Functions-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
+[![Live Interactive Power BI Report](https://img.shields.io/badge/Live_Demo-Power_BI_Service_Report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#-live-interactive-report--power-bi-service)
+
 **An End-to-End Enterprise Lakehouse, SQL Data Warehouse & Power BI Analytics Suite for Public Sector Operations, Workforce Capacity & Sourcing ROI**
 
 </div>
@@ -147,28 +149,40 @@ The Power BI reporting suite delivers a unified, dark-themed command center buil
 ```
 
 ### Page 1: Executive Overview
+![Page 1: Executive Overview](assets/page1_executive_overview.jpg)
 - **Header SLA Metric Cards**: Real-time SLA Compliance Rate (with target delta), Total Operational Volume, Financial Penalty Exposure, and Active Operations Copilot advisory alert.
 - **Operational Volume vs. SLA Breach Trend**: 12-month dual-axis rolling trend line comparing ingested incident throughput against contractual breaches.
 - **Global Regional Footprint & Health Velocity**: Facility status table showing volume, breaches, compliance %, and inline SVG trendlines.
 - **Workforce Contract & Commercial Architecture**: Donut breakdown of Fixed Price KPI vs Cost Plus SLA vs Gainshare Operations.
 
 ### Page 2: Sector Talent Pipeline
+![Page 2: Sector Talent Pipeline](assets/page2_sector_talent_pipeline.jpg)
 - **End-to-End Operational Remediation Funnel**: 6-gate conversion funnel tracking incident progression from Ingestion $\rightarrow$ Triage $\rightarrow$ Risk Assessment $\rightarrow$ Escalation $\rightarrow$ Power Apps Intervention $\rightarrow$ Closure, with dynamic drop-off % calculations.
 - **Average Latency by Priority Tier**: Visual bar breakdown comparing critical P1 (target 24h) down to low-priority P4 tickets.
 - **Divisional SLA Compliance & Operational Deficits**: Sector-by-sector breach status table with dynamic wait-time badges and assigned Lead Recruiters.
 
 ### Page 3: Diversity & Values (Belong at Serco)
+![Page 3: Diversity & Values](assets/page3_diversity_values.jpg)
 - **Executive EDI Benchmarks**: Female Representation %, Armed Forces Veteran Placements, Social Mobility Internal Progression Rate, and Employee Voice Inclusion Score.
 - **Gender & Ethnicity Across Organizational Tiers**: 100% stacked demographic breakdown across 5 structural tiers (Frontline Operatives $\rightarrow$ First-Line Supervisors $\rightarrow$ Operational Managers $\rightarrow$ Senior Leadership $\rightarrow$ Executive Directorate & Board) tracking progress toward the 40% female leadership goal.
 - **Serco Core Values Alignment**: Employee sentiment radar across Care, Trust, Pride, and Innovation.
 - **Leadership Mobility Spotlight**: Case studies celebrating frontline-to-director progression.
 
 ### Page 4: Talent Acquisition & Sourcing ROI
+![Page 4: Talent Acquisition & Sourcing ROI](assets/page4_ta_sourcing_roi.jpg)
 - **Recruitment KPI Ribbon**: Total Hires, Net Cost Avoidance (£370k+), In-House Sourcing Ratio (88%+), and 90-Day Retention Rate (86.4%).
 - **Channel Efficiency Scatter Plot**: Dynamic SVG quadrant chart mapping Cost-Per-Hire vs. 90-Day Retention to identify high-ROI talent sources.
 - **Quarterly Sourcing Mix**: Stacked channel distribution across Q1–Q4.
 - **Ranked Agency Spend vs Cost Avoidance**: Sector-by-sector breakdown of actual spend versus commercial agency placement baselines.
 - **Recruiter SLA Performance Table**: Individual recruiter workload, requisition volume, and turnaround velocity rankings.
+
+---
+
+## 🔗 Live Interactive Report & Power BI Service
+
+> 💡 **Live Interactive Demo**: [Click here to launch the interactive Power BI report in your browser](https://app.powerbi.com/groups/me/reports/) *(or replace with your public 'Publish to web' URL)*.
+>
+> *Note: For portfolio showcases or enterprise review, this report is configured with cross-report drill-through and responsive mobile/desktop rendering.*
 
 ---
 
